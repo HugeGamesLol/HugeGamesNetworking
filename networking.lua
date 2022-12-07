@@ -8,7 +8,7 @@ local Remotes = game.HttpService:JSONDecode(
 
 local function r(q)
 	for i,v in pairs(Remotes) do
-		if string.lower(v)==string.lower(q) then
+		if string.lower(i)==string.lower(q) then
 			return v
 		end
 	end

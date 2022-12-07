@@ -34,4 +34,6 @@ Not all remotes are supported Yet.
 We will continue to update this list
 
 Please give us Credits in your Scripts xx
-- Nyat
+- Nyatalie#6965
+- https://discord.gg/hugegames
+- https://hugegames.io
